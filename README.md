@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @eazevedo1
-- 👀 I’m interested in data science, machine learning, big data, industrial engineering and python
-- 🌱 I’m currently learning python fundamentals
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 @erick_azvd (instagram) erick-rosa-azevedo (linkedIn)
+I'm an Industrial Engineer graduated from UFRGS, with a solid track record in product development, process optimization, and data analysis. My professional experience has been centered on leveraging data-driven methodologies to solve complex challenges and deliver impactful results. As a Data Science professional, I have strong expertise in Python, SQL, and Power BI, along with a deep understanding of statistical modeling, machine learning, and business analytics. My work is driven by a culture of data, enabling informed decision-making and the creation of scalable, value-oriented solutions. I thrive on turning raw data into actionable insights that support strategic goals and drive operational efficiency. Whether it's through advanced analytics, predictive modeling, or dashboard creation, I bring a proven ability to implement innovative solutions that align with business objectives. Let’s connect to explore how my expertise in data-driven decision-making can create meaningful outcomes for your organization!
