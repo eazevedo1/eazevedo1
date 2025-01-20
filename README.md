@@ -20,6 +20,7 @@ I'm always learning and expanding my knowledge. Right now, I'm focusing on:
 
 - **LinkedIn**: [Érick Azevedo](https://www.linkedin.com/in/erick-rosa-azevedo/)
 - **Email**: [erick.azevedo.rosa@gmail.com](mailto:erick.azevedo.rosa@gmail.com)
+- **Resume**: [Érick Azevedo](https://drive.google.com/drive/folders/1ZhBaFmwlvpttYv7_dQ0az64Ay-DxHFck?usp=sharing)
 
 Feel free to check out my repositories, explore the projects, and don't hesitate to reach out if you'd like to collaborate or need help with anything!
 
